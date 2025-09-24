@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
----
 
 ### 🚀 About Me
 - 💻 Experienced with **frontend + backend systems** (React, Node, Flask, Postgres).
