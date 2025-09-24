@@ -1,16 +1,11 @@
-<!-- Header -->
-![Banner](https://github.com/AdityaKunte18/AdityaKunte18/blob/main/header.png)
-
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">Full-stack developer & ML enthusiast from India</h3>
-
 ---
 
 ### 🚀 About Me
-- 💻 Passionate about **frontend + backend systems** (React, Node, Flask, Postgres).
-- 🧠 Exploring **ML/DL frameworks** (PyTorch, scikit-learn) and **cloud infra** (GCP, Kubernetes, Docker).
+- 💻 Experienced with **frontend + backend systems** (React, Node, Flask, Postgres).
+- 🧠 Workin on **ML/DL frameworks** (PyTorch, scikit-learn) and **cloud infra** (GCP, Kubernetes, Docker).
 - 📱 Experienced in **mobile apps** (Android, React Native).
-- 📊 Love building things that merge **data + UI** → dashboards, visualizations, retrieval systems.
+- 📊 Love building and optimizing systems.
 
 ---
 
