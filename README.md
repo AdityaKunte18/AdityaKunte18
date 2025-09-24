@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 💻 Experienced with **frontend + backend systems** (React, Node, Flask, Postgres).
-- 🧠 Workin on **ML/DL frameworks** (PyTorch, scikit-learn) and **cloud infra** (GCP, Kubernetes, Docker).
+- 🧠 Learning **ML/DL frameworks** (PyTorch, scikit-learn) and **cloud infra** (GCP, Kubernetes, Docker).
 - 📱 Experienced in **mobile apps** (Android, React Native).
 - 📊 Love building and optimizing systems.
 
@@ -11,7 +11,7 @@
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/aditya-kunte/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:akunte2@illinois.edu"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
+  <a href="mailto:akunte2@illinois.edu"><img src="https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail" /></a>
 </p>
 
 ---
