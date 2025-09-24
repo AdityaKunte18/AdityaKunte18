@@ -11,9 +11,8 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/adityakunte18" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:kunte2@illinois.edu"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
-  <a href="https://github.com/AdityaKunte18"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/aditya-kunte/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:akunte2@illinois.edu"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
 </p>
 
 ---
@@ -23,7 +22,7 @@
   <!-- Keep the icons you like; trimmed for readability -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> 
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
@@ -35,22 +34,3 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="40" height="40"/> 
 </p>
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=adityakunte18&show_icons=true&hide=issues&rank_icon=percentile" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakunte18&layout=compact&hide=Jupyter%20Notebook" />
-</p>
-
----
-
-### 🌟 Featured Projects
-- **[Project 1](#)** – Short 1-line description.
-- **[Project 2](#)** – Short 1-line description.
-- **[Project 3](#)** – Short 1-line description.
-
----
-
-<sub>✨ Always learning, always building.</sub>
