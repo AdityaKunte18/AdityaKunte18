@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 💻 Experienced with **frontend + backend systems** (React, Node, Flask, Postgres).
 - 🧠 Learning **ML/DL frameworks** (PyTorch, scikit-learn) and **cloud infra** (GCP, Kubernetes, Docker).
-- 📱 Experienced in **mobile apps** (Android, React Native).
+- 📱 Experienced with **mobile app dev** (Android, React Native).
 - 📊 Love building and optimizing systems.
 
 ---
